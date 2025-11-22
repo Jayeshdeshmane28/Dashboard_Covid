@@ -1,0 +1,1 @@
+export const API_URL = 'https://data.covid19india.org/data.json';
